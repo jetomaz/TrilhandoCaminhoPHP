@@ -2,7 +2,8 @@
 
 
 echo  "Primeira versão do meu sistema";
-echo "Aqquiii nois estamus escrevendo";
+echo "Aqui nos estamos escrevendo um texto!";
+echo "A correção de portugues foi feita";
 
 
 ?>
